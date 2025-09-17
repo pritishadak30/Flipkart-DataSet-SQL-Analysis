@@ -1,4 +1,5 @@
 📊 Flipkart Mobiles Data Analysis
+
 📌 Project Overview
 
 This project focuses on Exploratory Data Analysis (EDA) of Flipkart mobile phone data using SQL. The dataset contains details of different mobile brands, their prices, discounts, ratings, and customer reviews.
